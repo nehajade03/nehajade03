@@ -1,27 +1,60 @@
-👋 Hi, I’m @nehajade03  
-📊 I’m a Data Analyst passionate about transforming data into actionable insights.  
+<h1 align="center">Hi 👋 I'm Neha Jade</h1>
+<p align="center">
+  💡 Data Analyst | 📊 Dashboard Enthusiast | 🐍 Python Coder <br>
+  🔍 Turning Data into Insights | 💻 Always Exploring Trends
+</p>
 
-💡 My core areas of interest:  
-- Data Analysis & Visualization  
-- Business Intelligence Tools  
-- Machine Learning for Analytics  
-- Data-driven Strategy & Decision Making  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
 
-📚 I have hands-on expertise in:  
-- Power BI, Tableau, and Advanced Excel (VBA & Macros)  
-- Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- SQL | Hadoop | Spark | Cloud Platforms (GCP, Azure)  
+---
 
-🤝 I’m open to collaborating on:  
-- Data Analytics Projects  
-- Building Open-source Dashboards & BI Tools  
-- Analyzing Real-world Datasets (Sales, Finance, Healthcare, etc.)  
+### 🧠 About Me
+- 🎓 PG Diploma in Data Science – Shivaji University (2024)
+- 📊 Data Analyst Intern @ Analytics Career Connect
+- 🧰 I love building **interactive dashboards**, analyzing trends & automating data flows
+- 💬 Always up for conversations around data, business, and analytics!
 
-📫 How to reach me:  
-- 📧 Email: jadeneha03@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/nehajade](https://www.linkedin.com/in/nehajade)  
+---
 
-🛠️ Tools & Tech Stack:  
-Power BI | Tableau | Excel | Python | SQL | GitHub | Streamlit | GCP | Hadoop | Spark  
+### 🚀 I’m Looking to Collaborate On:
+- Real-world datasets (sales, finance, healthcare, etc.)
+- Power BI / Tableau Dashboards
+- Data storytelling & open-source analytics tools
 
-💬 Fun fact: I love turning complex data into beautiful, insightful dashboards!  
+
+
+---
+
+### 🛠 Tools & Tech
+
+| Data | Visualization | Automation | Soft Skills |
+|------|---------------|------------|-------------|
+| SQL | Power BI, Tableau | Python (Pandas, NumPy), Excel VBA | Storytelling, Collaboration |
+| Excel | Lookups, Pivot Tables | Macros, Dashboards | Problem Solving |
+
+---
+
+### 📜 Certifications
+
+- ✅ Power BI – Simplilearn  
+- ✅ Python for Data Science – Udemy  
+- ✅ Data Analytics Virtual Internships – PwC & Tata via Forage  
+- ✅ Excel for Beginners – Simplilearn
+
+---
+
+### 🌐 Connect with Me
+
+📍 Pune  
+📧 jadeneha03@gmail.com  
+🔗 [LinkedIn](#) | [GitHub](#) | [Portfolio](#)
+
+---
+
+<sub>✨ Fun Fact: I don’t just *analyze* data — I make it tell stories 📚📈</sub>

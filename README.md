@@ -16,6 +16,7 @@
 
 ### 🧠 About Me
 - 🎓 PG Diploma in Data Science – Shivaji University (2024)
+- Bachelor of Science - Statistics - Shivaji University (2023)
 - 📊 Data Analyst Intern @ Analytics Career Connect
 - 🧰 I love building **interactive dashboards**, analyzing trends & automating data flows
 - 💬 Always up for conversations around data, business, and analytics!

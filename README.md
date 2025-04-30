@@ -51,9 +51,9 @@
 
 ### 🌐 Connect with Me
 
-📍 Pune  
+📍 Kolhapur,Pune  
 📧 jadeneha03@gmail.com  
-🔗 [LinkedIn](#) | [GitHub](#) | [Portfolio](#)
+🔗 [LinkedIn](http://www.linkedin.com/in/neha-jade) | [GitHub](https://github.com/nehajade03) | [Portfolio](https://www.novypro.com/profile_about/neha--jade)
 
 ---
 

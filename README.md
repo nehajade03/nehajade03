@@ -2,13 +2,16 @@
 <p align="center">
   💡 Data Analyst | 📊 Dashboard Enthusiast | 🐍 Python Coder <br>
   🔍 Turning Data into Insights | 💻 Always Exploring Trends
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
@@ -33,11 +36,13 @@
 ---
 
 ### 🛠 Tools & Tech
+| 💾 Data            | 📊 Visualization     | 🤖 Automation       | 🗣️ Soft Skills        |
+|-------------------|----------------------|---------------------|------------------------|
+| Python            | Power BI             | Python Scripting    | Communication          |
+| SQL               | Matplotlib / Seaborn | GitHub Actions      | Presentation Skills    |
+| Pandas            | Excel Dashboards     | Team Collaboration  | Problem Solving        |
+| Data Cleaning     | Tableau              | VBA, Macros Automation| Decision Making    |
 
-| Data | Visualization | Automation | Soft Skills |
-|------|---------------|------------|-------------|
-| SQL | Power BI, Tableau | Python (Pandas, NumPy), Excel VBA | Storytelling, Collaboration |
-| Excel | Lookups, Pivot Tables | Macros, Dashboards | Problem Solving |
 
 ---
 
